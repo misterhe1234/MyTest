@@ -3,3 +3,4 @@ result/*
 report/*
 *.pyc
 data/download
+env/
